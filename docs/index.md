@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "TODO: Title"
-  text: "TODO: Subtitle"
-  tagline: "TODO: Tagline"
+  name: "Matthew Sequeira's Website"
+  text: "Seems interesting :O"
+  tagline: "A very cool website"
   actions:
     - theme: brand
       text: Template Repository
