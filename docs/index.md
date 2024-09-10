@@ -19,7 +19,9 @@ features:
     details: Some cool blogs you'll write this semester!
     link: /blogs
   - title: Assignments
-    details: All of your assignments will be posted on your portfolio.
+    details: Find all of my assignments here!
+    link: /assignments
   - title: About Me
-    details: You'll implement a small bio about yourself on here!
+    details: Find a small bio about me  here!
+    link: /about
 ---
