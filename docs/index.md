@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "Matthew Sequeira's Website"
-  text: "Seems interesting :O"
-  tagline: "A very cool website"
+  text: "welcome to my portfolio!"
+  tagline: "Click around to see some of my work!"
   actions:
     - theme: brand
       text: Template Repository
