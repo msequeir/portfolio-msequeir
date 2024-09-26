@@ -133,7 +133,7 @@ Note: Completed with the help of ChatGPT
 
 
 ## Wireframes
-[Figma Designs] (https://www.figma.com/proto/jKjXKkqoIhKNDqcmwgmE68/Wanderly?node-id=10-105&t=zA7PTFaBpO3iL1CY-1)
+[Figma Designs] (https://www.figma.com/proto/jKjXKkqoIhKNDqcmwgmE68/Wanderly?node-id=10-105&t=qJkXb2dfdpm9FdVm-1)
 
 ## Design Tradeoffs
 
