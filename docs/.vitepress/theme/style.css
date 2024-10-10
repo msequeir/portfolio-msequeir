@@ -89,3 +89,8 @@
   --docsearch-primary-color: var(--vp-c-brand) !important;
 }
 
+.FAQ {
+  text-align: center;
+  color: #1e6e89;
+}
+
