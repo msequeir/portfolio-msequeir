@@ -47,7 +47,7 @@ As I designed my app, I wanted to keep the user in mind. I orignially wanted emo
 ## Design Study
 
 <img src="/../assets/images/image_design.png" width="400" height="400">
-<img src="/../assets/images/font_design.png" width="400" height="400">
+<img src="/../assets/images/font_design_slide.png" width="400" height="400">
 
 ### Image
 For my design study the first thing I looked at were the images. I first looked at the rainbow image and really liked the light blue teal color that I saw. Being that it stood out to me I wanted to pursue a wide variety of images that accentuated these different shades of blue. I loooked through many different sources and since this is a travel app I decided that looking at travel images were a great way to inspire me. As you look through my app, the inspiration from these images is evident, with my app featuring a light teal color as the background. 
