@@ -40,9 +40,25 @@ layout: doc
     - The interface reuses the same icons at the top of every page. This takes the user to the home page, itinerary, favorites and so on. This is consistent with every page and then on the page where you are editing an itinerary the itinerary icon is replaced by a single person or two people to represent collaborating on an itinerary.   
 
 
+Reflections after writing the code:
+
+As I designed my app, I wanted to keep the user in mind. I orignially wanted emojis to be my links but decided this might not be super intuitive as to what they mean so I kept the words. Additionally, I found that keeping my emojis different enough when I did include them was key. I kept hearts as favoriting a post, a thumbs up as upvoting and the pencil and trash icons as editing and deleting respectively. It was a little tough figuring out how to make sure favoriting and liking and rating could all be different but I think the way my app does it with hearts, thumbs and stars makes intuitive sense. Additionally, I keep my links at the top close to eahc other and allow the user to click either on the logo or the icon to get to the home screen. Overall, I really tried to keep these heursitics in mind when designing my website, all so that the user has a good experience with my page. 
+
+## Design Study
+
+<img src="/../assets/images/image_design.png" width="400" height="400">
+<img src="/../assets/images/font_design.png" width="400" height="400">
+
+### Image
+For my design study the first thing I looked at were the images. I first looked at the rainbow image and really liked the light blue teal color that I saw. Being that it stood out to me I wanted to pursue a wide variety of images that accentuated these different shades of blue. I loooked through many different sources and since this is a travel app I decided that looking at travel images were a great way to inspire me. As you look through my app, the inspiration from these images is evident, with my app featuring a light teal color as the background. 
+
+## Font
+Looking at fonts was a fun process and I looked at a whole lot of fonts. I decided that I really liked the serif fonts after looking at a few and gathered some of those fonts for inspiration and included them on my slide. Additionally, I wanted my logo to in cursive after looking at some these different fonts and it felt applicable for the travel vibe I was going for. Finally, the two fonts Lobster and Poppins stuck out to me so I included them in my design slides and they made their way into my app!
+
+
 
 ## Link to Frontend Code Repository
 https://github.com/msequeir/frontend-starter
 
 ## Link to Vercel Deployment
-https://frontend-starter-flv0jojuw-matts-projects-15c29c0a.vercel.app/
+https://frontend-starter-gb69ifsvg-matts-projects-15c29c0a.vercel.app/
